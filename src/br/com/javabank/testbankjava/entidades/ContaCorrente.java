@@ -1,6 +1,6 @@
- package entities;
+package br.com.javabank.testbankjava.entidades;
 
-import exceptions.ContaException;
+import br.com.javabank.testbankjava.exececoes.ContaException;
 
 public class ContaCorrente extends Conta implements Tributacao{
 
